@@ -1,0 +1,4 @@
+filename,file_size,file_attributes,region_count,region_id,region_shape_attributes,region_attributes
+image (1082).png,1232862,{},3,0,"{""name"":""rect"",""x"":1349,""y"":2032,""width"":408,""height"":246}","{""Name"":""Signature"",""Type"":""Image""}"
+image (1082).png,1232862,{},3,1,"{""name"":""rect"",""x"":192,""y"":306,""width"":2074,""height"":1685}","{""Name"":""Body Text"",""Type"":""Text""}"
+image (1082).png,1232862,{},3,2,"{""name"":""rect"",""x"":216,""y"":2002,""width"":318,""height"":120}","{""Name"":""Body Text"",""Type"":""Text""}"

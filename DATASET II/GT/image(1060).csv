@@ -1,0 +1,3 @@
+filename,file_size,file_attributes,region_count,region_id,region_shape_attributes,region_attributes
+image (1060).png,1338185,{},2,0,"{""name"":""rect"",""x"":1169,""y"":2392,""width"":635,""height"":186}","{""Name"":""Signature"",""Type"":""Image""}"
+image (1060).png,1338185,{},2,1,"{""name"":""rect"",""x"":228,""y"":438,""width"":2026,""height"":1847}","{""Name"":""Body Text"",""Type"":""Text""}"

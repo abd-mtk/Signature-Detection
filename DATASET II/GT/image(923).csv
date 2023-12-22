@@ -1,0 +1,6 @@
+filename,file_size,file_attributes,region_count,region_id,region_shape_attributes,region_attributes
+image (923).png,3119898,{},5,0,"{""name"":""rect"",""x"":1409,""y"":2527,""width"":375,""height"":131}","{""Name"":""Signature"",""Type"":""Image""}"
+image (923).png,3119898,{},5,1,"{""name"":""rect"",""x"":2022,""y"":2260,""width"":280,""height"":268}","{""Name"":""Stamp"",""Type"":""Image""}"
+image (923).png,3119898,{},5,2,"{""name"":""rect"",""x"":137,""y"":83,""width"":2028,""height"":2147}","{""Name"":""Body Text"",""Type"":""Text""}"
+image (923).png,3119898,{},5,3,"{""name"":""rect"",""x"":137,""y"":2236,""width"":1766,""height"":161}","{""Name"":""Body Text"",""Type"":""Text""}"
+image (923).png,3119898,{},5,4,"{""name"":""rect"",""x"":1225,""y"":2670,""width"":672,""height"":161}","{""Name"":""Body Text"",""Type"":""Text""}"
