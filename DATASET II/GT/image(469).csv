@@ -1,8 +1,0 @@
-filename,file_size,file_attributes,region_count,region_id,region_shape_attributes,region_attributes
-image (469).png,2067729,{},7,0,"{""name"":""rect"",""x"":1677,""y"":2177,""width"":511,""height"":155}","{""Name"":""Signature"",""Type"":""Image""}"
-image (469).png,2067729,{},7,1,"{""name"":""rect"",""x"":1766,""y"":2569,""width"":428,""height"":184}","{""Name"":""Stamp"",""Type"":""Image""}"
-image (469).png,2067729,{},7,2,"{""name"":""rect"",""x"":280,""y"":256,""width"":458,""height"":428}","{""Name"":""Logo"",""Type"":""Image""}"
-image (469).png,2067729,{},7,3,"{""name"":""rect"",""x"":125,""y"":737,""width"":2105,""height"":1398}","{""Name"":""Body Text"",""Type"":""Text""}"
-image (469).png,2067729,{},7,4,"{""name"":""rect"",""x"":232,""y"":2147,""width"":250,""height"":54}","{""Name"":""Body Text"",""Type"":""Text""}"
-image (469).png,2067729,{},7,5,"{""name"":""rect"",""x"":1903,""y"":2349,""width"":351,""height"":190}","{""Name"":""Body Text"",""Type"":""Text""}"
-image (469).png,2067729,{},7,6,"{""name"":""rect"",""x"":184,""y"":2629,""width"":678,""height"":220}","{""Name"":""Body Text"",""Type"":""Text""}"
